@@ -1,0 +1,10 @@
+{
+  "validUser": {
+    "email": "rajitha007@mailinator.com",
+    "password": "Test@123"
+  },
+  "invalidUser": {
+    "email": "wrong@test.com",
+    "password": "wrong123"
+  }
+}
